@@ -16,25 +16,32 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Gitter SOLID community: https://gitter.im/solid/
 * Reddit: https://www.reddit.com/r/SOLID/
 
-## Articles
+## Articles, tutorials and notes
 
 * Getting started: https://solid.inrupt.com/docs/getting-started
-* Userguide: https://github.com/solid/userguide
+* Data browser userguide: https://github.com/solid/userguide
+* SOLID hacks: https://solid.gitbook.io/solid-hacks/
 * https://github.com/codyburleson/notes-on-solid
-* https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b
+* Angular tutorials
+  * https://github.com/solid/solid-tutorial-angular
 * http://computingjoy.com/blog/2016/11/17/data-longevity-and-data-centric-software/
+* Local Solid server with Docker: https://github.com/codyburleson/notes-on-solid/blob/master/cburleson/notes-local-solid-server-with-docker.md
 
 ## Presentations
 
 * https://rubenverborgh.github.io/ePIC-2018/
+* Linked Data for personal data management: https://rubenverborgh.github.io/Solid-DeSemWeb-2018/
 
 ## News articles
 
-* https://www.wired.com/2017/04/tim-berners-lee-inventor-web-plots-radical-overhaul-creation
-* https://www.forbes.com/sites/jasonevangelho/2018/09/30/enough-is-enough-death-to-the-world-wide-web-as-we-know-it/
-* https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web
-* https://xconomy.com/boston/2018/10/11/tim-berners-lee-building-inrupt-to-fix-the-web-will-users-come/
-* https://www.informationweek.com/big-data/berners-lee-wants-to-build-a-safer-internet-for-all/a/d-id/1333035
+* 2018
+  * https://www.forbes.com/sites/jasonevangelho/2018/09/30/enough-is-enough-death-to-the-world-wide-web-as-we-know-it/
+  * https://medium.freecodecamp.org/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b
+  * https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web
+  * https://xconomy.com/boston/2018/10/11/tim-berners-lee-building-inrupt-to-fix-the-web-will-users-come/
+  * https://www.informationweek.com/big-data/berners-lee-wants-to-build-a-safer-internet-for-all/a/d-id/1333035
+* 2017
+  * https://www.wired.com/2017/04/tim-berners-lee-inventor-web-plots-radical-overhaul-creation
 
 ## Videos
 
@@ -48,12 +55,24 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * https://github.com/solid/solid-apps
 * Various apps: https://github.com/linkeddata
-
+* Personal inbox https://github.com/solid/solid-inbox
+* CLI: https://github.com/solid/solid-cli
+* Payments
+  * Solid Pay: https://docs.solidpay.org/
+  
 ## Back-end
 
 * SOLID server for Node: https://github.com/solid/node-solid-server
 
 ## Libraries
+
+### SOLID
+
+* Solid auth client
+  * https://github.com/solid/solid-auth-client
+  * Docs: https://solid.github.io/solid-auth-client/
+
+### RDF
 
 * rdflib.js: https://github.com/linkeddata/rdflib.js
   * Gitter channel: https://gitter.im/linkeddata/rdflib.js
@@ -64,8 +83,10 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 ## Specifications
 
-* SOLID
+SOLID
   * https://github.com/solid/solid-spec
+  * Intro to the specification: https://solid.inrupt.com/docs/intro-to-solid-spec
+  * Ontologies and vocabularies: https://github.com/solid/vocab
 * RDF
   * https://www.w3.org/RDF/
   * https://fr.wikipedia.org/wiki/Linked_open_data
@@ -84,6 +105,8 @@ This repository provides a curated list of resources about SOLID, the future of 
   * https://www.w3.org/2005/Incubator/webid/spec/identity/
   * https://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability
   * https://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile
+* Web Access Control (WAC)
+  * https://github.com/solid/web-access-control-spec
 * FOAF
   * http://xmlns.com/foaf/spec/
 * WebID-TLS
@@ -92,4 +115,3 @@ This repository provides a curated list of resources about SOLID, the future of 
   * X509: https://en.wikipedia.org/wiki/X.509
   * Cert ontology: https://www.w3.org/ns/auth/cert
   * Key generation: https://www.w3.org/TR/html5/forms.html#the-keygen-element
-* Web Ledger Protocol: https://w3c.github.io/web-ledger/
