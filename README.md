@@ -1,7 +1,5 @@
 # Awesome SOLID
-Tim Berners-Lee, the creator of the Web, wants to upgrade the Web. We want to be a part of it!
-
-Let's pave the way towards true data ownership together!
+Tim Berners-Lee, the creator of the Web, wants to upgrade the Web to re-decentralize it. We think this will change everything and we all want to be a part of it! Let's pave the way towards true data ownership together!
 
 This repository provides a curated list of resources about SOLID, the future of the Web.
 
