@@ -81,6 +81,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 ## UI Widgets
 
 * https://github.com/solid/solid-ui
+* React components: https://github.com/solid/react-components
 
 ## Specifications
 
