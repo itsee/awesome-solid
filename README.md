@@ -88,12 +88,25 @@ SOLID
   * https://github.com/solid/solid-spec
   * Intro to the specification: https://solid.inrupt.com/docs/intro-to-solid-spec
   * Ontologies and vocabularies: https://github.com/solid/vocab
-* RDF
+* WebID
+  * https://www.w3.org/2005/Incubator/webid/spec/identity/
+  * https://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability
+  * https://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile
+* WebID-TLS
+  * https://www.w3.org/2005/Incubator/webid/spec/tls/
+* Web Access Control (WAC)
+  * https://github.com/solid/web-access-control-spec
+* FOAF
+  * http://xmlns.com/foaf/spec/
+* RDF/RDFa/Turtle
   * https://www.w3.org/RDF/
   * https://fr.wikipedia.org/wiki/Linked_open_data
-  * https://www.w3.org/TR/rdf11-concepts/
-  * https://www.w3.org/TR/rdfa-primer/
-  * Turtle: https://www.w3.org/TR/turtle/
+  * RDF 1.1 Concepts: https://www.w3.org/TR/rdf11-concepts/
+  * RDF 1.1 Primer: https://www.w3.org/TR/rdf11-primer/
+  * RDF 1.1 XML Syntax: https://www.w3.org/TR/rdf-syntax-grammar/
+  * RDF 1.1 Turtle: https://www.w3.org/TR/turtle/
+  * RDFa 1.1 Primer: https://www.w3.org/TR/rdfa-primer/
+  * RDFa Core 1.1: https://www.w3.org/TR/rdfa-core/
 * Linked Data
   * http://linkeddata.org/
   * JSON-LD: https://www.w3.org/TR/json-ld/
@@ -102,17 +115,10 @@ SOLID
 * Linked Data Platform
   * https://www.w3.org/TR/ldp/
   * https://www.w3.org/TR/ldp-primer/
-* WebID
-  * https://www.w3.org/2005/Incubator/webid/spec/identity/
-  * https://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability
-  * https://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile
-* Web Access Control (WAC)
-  * https://github.com/solid/web-access-control-spec
-* FOAF
-  * http://xmlns.com/foaf/spec/
-* WebID-TLS
-  * https://www.w3.org/2005/Incubator/webid/spec/tls/
+* Cool URIs for the Semantic Web: https://www.w3.org/TR/cooluris/
+* Web Linking (RFC 5988): https://tools.ietf.org/html/rfc5988
 * PKI/X509
   * X509: https://en.wikipedia.org/wiki/X.509
   * Cert ontology: https://www.w3.org/ns/auth/cert
   * Key generation: https://www.w3.org/TR/html5/forms.html#the-keygen-element
+  * DANE protocol: https://www.internetsociety.org/resources/deploy360/dane/
