@@ -52,6 +52,7 @@ This repository provides a curated list of resources about SOLID, the future of 
   * https://www.youtube.com/watch?v=jHGcwNmeIRw
   * https://www.youtube.com/watch?v=ZmHIKx4Ifq4
   * https://www.youtube.com/watch?v=58H83JtITnk
+* GraphQL and SPARQL: https://www.youtube.com/watch?v=LUF7plExdv8
 
 ## Apps
 
