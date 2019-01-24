@@ -58,6 +58,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 ## Apps
 
 * https://github.com/solid/solid-apps
+* https://github.com/melvincarvalho/webappmarket
 * Various apps: https://github.com/linkeddata
 * Personal inbox https://github.com/solid/solid-inbox
 * CLI: https://github.com/solid/solid-cli
@@ -86,6 +87,9 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * https://github.com/solid/solid-ui
 * React components: https://github.com/solid/react-components
+
+## Ontologies
+  * https://schema.org/
 
 ## Specifications
 
