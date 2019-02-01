@@ -69,6 +69,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 ## Back-end
 
 * SOLID server for Node: https://github.com/solid/node-solid-server
+* Dockerized version of the SOLID server: https://github.com/angelo-v/docker-solid-server
 
 ## Libraries
 
