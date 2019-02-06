@@ -71,6 +71,8 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * SOLID server for Node: https://github.com/solid/node-solid-server
 * Dockerized version of the SOLID server: https://github.com/angelo-v/docker-solid-server
+* Experiments
+  * TS experiment: https://github.com/RubenVerborgh/solid-server-ts
 
 ## Libraries
 
@@ -99,6 +101,7 @@ SOLID
   * https://github.com/solid/solid-spec
   * Intro to the specification: https://solid.inrupt.com/docs/intro-to-solid-spec
   * Ontologies and vocabularies: https://github.com/solid/vocab
+  * Architecture: https://github.com/solid/solid-architecture
 * WebID
   * https://www.w3.org/2005/Incubator/webid/spec/identity/
   * https://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability
