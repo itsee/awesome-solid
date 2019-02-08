@@ -37,6 +37,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Tim Berners Lee @ GOTO 2018: https://www.youtube.com/watch?v=Rxqko96C5ZI
 * https://rubenverborgh.github.io/ePIC-2018/
 * Linked Data for personal data management: https://rubenverborgh.github.io/Solid-DeSemWeb-2018/
+* Understanding Linked Data: https://solid.github.io/understanding-linked-data/#1
 
 ## News articles
 
