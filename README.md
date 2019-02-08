@@ -22,13 +22,14 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Getting started: https://solid.inrupt.com/docs/getting-started
 * Paradigm shifts for the decentralized Web: https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-3
 * Roadmap for learning Solid: https://github.com/LearnSolid/solid-roadmap
-* Data browser userguide: https://github.com/solid/userguide
+* Making a basic app easily: https://solid.inrupt.com/docs/app-on-your-lunch-break
 * SOLID hacks: https://solid.gitbook.io/solid-hacks/
 * https://github.com/codyburleson/notes-on-solid
 * Angular tutorials
   * https://github.com/solid/solid-tutorial-angular
 * http://computingjoy.com/blog/2016/11/17/data-longevity-and-data-centric-software/
 * Local Solid server with Docker: https://github.com/codyburleson/notes-on-solid/blob/master/cburleson/notes-local-solid-server-with-docker.md
+* Data browser userguide: https://github.com/solid/userguide
 
 ## Presentations
 
@@ -57,6 +58,14 @@ This repository provides a curated list of resources about SOLID, the future of 
   * https://www.youtube.com/watch?v=58H83JtITnk
 * GraphQL and SPARQL: https://www.youtube.com/watch?v=LUF7plExdv8
 
+## Solid POD providers
+
+* https://github.com/solid/solid/wiki/Solid-pod-providers
+
+## Solid IDPs
+
+* https://solid.github.io/ldflex-playground/
+
 ## Apps
 
 * https://github.com/solid/solid-apps
@@ -75,7 +84,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Experiments
   * TS experiment: https://github.com/RubenVerborgh/solid-server-ts
 
-## Libraries
+## Libraries / SDKs / Tools
 
 ### SOLID
 
@@ -90,10 +99,16 @@ This repository provides a curated list of resources about SOLID, the future of 
 * query-ldflex: https://github.com/solid/query-ldflex
   * playground: https://solid.github.io/ldflex-playground/
 
-## UI Widgets
+### React
+
+* Solid React app generator: https://github.com/Inrupt-inc/generator-solid-react
+* Solid React SDK: https://github.com/Inrupt-inc/solid-react-sdk
+* React components: https://github.com/solid/react-components
+
+### Basic UI widgets and panes
 
 * https://github.com/solid/solid-ui
-* React components: https://github.com/solid/react-components
+* https://github.com/solid/solid-panes
 
 ## Ontologies
   * https://schema.org/
