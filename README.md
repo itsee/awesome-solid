@@ -21,6 +21,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * Getting started: https://solid.inrupt.com/docs/getting-started
 * Paradigm shifts for the decentralized Web: https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-3
+* Roadmap for learning Solid: https://github.com/LearnSolid/solid-roadmap
 * Data browser userguide: https://github.com/solid/userguide
 * SOLID hacks: https://solid.gitbook.io/solid-hacks/
 * https://github.com/codyburleson/notes-on-solid
