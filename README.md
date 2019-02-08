@@ -71,6 +71,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * https://github.com/solid/solid-apps
 * https://github.com/melvincarvalho/webappmarket
+* Solid IDE: https://jeff-zucker.github.io/solid-ide/
 * Various apps: https://github.com/linkeddata
 * Personal inbox https://github.com/solid/solid-inbox
 * CLI: https://github.com/solid/solid-cli
