@@ -111,6 +111,7 @@ SOLID
   * https://www.w3.org/2005/Incubator/webid/spec/tls/
 * Web Access Control (WAC)
   * https://github.com/solid/web-access-control-spec
+* WebID OIDC: https://github.com/solid/webid-oidc-spec
 * FOAF
   * http://xmlns.com/foaf/spec/
 * RDF/RDFa/Turtle
