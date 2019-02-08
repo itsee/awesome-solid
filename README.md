@@ -87,6 +87,8 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * rdflib.js: https://github.com/linkeddata/rdflib.js
   * Gitter channel: https://gitter.im/linkeddata/rdflib.js
+* query-ldflex: https://github.com/solid/query-ldflex
+  * playground: https://solid.github.io/ldflex-playground/
 
 ## UI Widgets
 
