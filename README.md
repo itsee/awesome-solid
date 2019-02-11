@@ -16,6 +16,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Gitter SOLID community: https://gitter.im/solid/
 * Reddit: https://www.reddit.com/r/SOLID/
 * Unofficial wiki: https://www.bourgeoa.ga/solid-wiki/index.php?title=Main_Page
+* W3C Solid community: https://www.w3.org/community/solid/
 
 ## Articles, tutorials and notes
 
