@@ -24,6 +24,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Paradigm shifts for the decentralized Web: https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/#users-become-owners-p-3
 * Roadmap for learning Solid: https://github.com/LearnSolid/solid-roadmap
 * Making a basic app easily: https://solid.inrupt.com/docs/app-on-your-lunch-break
+* Basic introduction: https://solidpodit.com/
 * SOLID hacks: https://solid.gitbook.io/solid-hacks/
 * https://github.com/codyburleson/notes-on-solid
 * Angular tutorials
