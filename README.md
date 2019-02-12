@@ -78,6 +78,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Various apps: https://github.com/linkeddata
 * Personal inbox https://github.com/solid/solid-inbox
 * CLI: https://github.com/solid/solid-cli
+* CVI/interactive shell for managing pods: https://github.com/jeff-zucker/solid-shell
 * Profile viewer: https://gitlab.com/angelo-v/solid-profile-viewer
 * Payments
   * Solid Pay: https://docs.solidpay.org/
