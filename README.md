@@ -68,7 +68,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 ## Solid IDPs
 
-* https://solid.github.io/ldflex-playground/
+* https://github.com/solid/solid-idp-list
 
 ## Apps
 
