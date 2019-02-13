@@ -176,3 +176,6 @@ SOLID
   * https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/dpki.pdf
 * Verifiable Credentials
   * https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/verifiable-credentials-primer.md
+* SAFE network
+  * https://www.reddit.com/r/safenetwork/comments/9x1jc0/safe_network_introduction_and_links_for_newcomers/
+  * https://www.reddit.com/r/safenetwork/
