@@ -12,6 +12,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 ## Community
 
+* Community homepage: https://github.com/solid/community
 * Community forum: https://forum.solidproject.org/
 * Gitter SOLID community: https://gitter.im/solid/
 * Reddit: https://www.reddit.com/r/SOLID/
