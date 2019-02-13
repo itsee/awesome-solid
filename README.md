@@ -162,3 +162,8 @@ SOLID
   * Cert ontology: https://www.w3.org/ns/auth/cert
   * Key generation: https://www.w3.org/TR/html5/forms.html#the-keygen-element
   * DANE protocol: https://www.internetsociety.org/resources/deploy360/dane/
+
+## Related subjects
+
+* Semantic Web
+  * https://www.youtube.com/watch?v=e5RPhWIBcY4
