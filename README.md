@@ -168,3 +168,11 @@ SOLID
 
 * Semantic Web
   * https://www.youtube.com/watch?v=e5RPhWIBcY4
+* Decentralized Identifiers (DIDs)
+  * https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/did-primer.md
+  * https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/topics-and-advance-readings/did-primer-extended.md
+  * https://w3c-ccg.github.io/did-spec/
+* Distributed PKI (DPKI)
+  * https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/dpki.pdf
+* Verifiable Credentials
+  * https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/verifiable-credentials-primer.md
