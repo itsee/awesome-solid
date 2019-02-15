@@ -98,6 +98,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Solid auth client
   * https://github.com/solid/solid-auth-client
   * Docs: https://solid.github.io/solid-auth-client/
+* Solid style guide: https://github.com/Inrupt-inc/solid-style-guide
 
 ### RDF / SPARQL
 
@@ -184,3 +185,5 @@ SOLID
 * SAFE network
   * https://www.reddit.com/r/safenetwork/comments/9x1jc0/safe_network_introduction_and_links_for_newcomers/
   * https://www.reddit.com/r/safenetwork/
+* IPFS
+  * https://ipfs.io/
