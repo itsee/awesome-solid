@@ -170,6 +170,7 @@ SOLID
 
 ## Related subjects
 
+* https://forum.solidproject.org/c/1-about-solid/connection-to-other-initiatives
 * Semantic Web
   * https://www.youtube.com/watch?v=e5RPhWIBcY4
 * Decentralized Identifiers (DIDs)
