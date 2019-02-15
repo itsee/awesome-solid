@@ -108,6 +108,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * communica
   * http://comunica.linkeddatafragments.org/
   * https://github.com/comunica/comunica
+* GraphQL to SparQL queries (graphql-ld): https://github.com/rubensworks/graphql-to-sparql.js
 
 ### React
 
