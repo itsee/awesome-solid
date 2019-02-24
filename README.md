@@ -83,6 +83,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Profile viewer: https://gitlab.com/angelo-v/solid-profile-viewer
 * Payments
   * Solid Pay: https://docs.solidpay.org/
+* Bookmarks: https://github.com/mark-book/markbook
 
 ## Back-end
 
