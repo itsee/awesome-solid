@@ -125,6 +125,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 ## Ontologies
   * https://schema.org/
+  * Presentation about ontologies: https://www.slideshare.net/SergeLinckels/semantic-web-ontologies
 
 ## Specifications
 
