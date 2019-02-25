@@ -84,6 +84,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Payments
   * Solid Pay: https://docs.solidpay.org/
 * Bookmarks: https://github.com/mark-book/markbook
+* Find solid pods: https://findsolidpods.com/
 
 ## Back-end
 
