@@ -158,7 +158,9 @@ SOLID
   * RDFa Core 1.1: https://www.w3.org/TR/rdfa-core/
 * Linked Data
   * http://linkeddata.org/
-  * JSON-LD: https://www.w3.org/TR/json-ld/
+  * JSON-LD
+    * https://www.w3.org/TR/json-ld/
+    * https://json-ld.org/
   * Linked Data Cryptographic Suite Registry: https://w3c-ccg.github.io/ld-cryptosuite-registry/
   * http://computingjoy.com/blog/2016/09/26/understanding-linked-data/
   * LD Patch: https://www.w3.org/TR/ldpatch/
