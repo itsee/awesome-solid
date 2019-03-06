@@ -85,6 +85,7 @@ This repository provides a curated list of resources about SOLID, the future of 
   * Solid Pay: https://docs.solidpay.org/
 * Bookmarks: https://github.com/mark-book/markbook
 * Find solid pods: https://findsolidpods.com/
+* Task manager: https://github.com/NoelDeMartin/solid-focus
 
 ## Back-end
 
@@ -124,6 +125,10 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * https://github.com/solid/solid-ui
 * https://github.com/solid/solid-panes
+
+### Others
+
+* ODM: https://github.com/NoelDeMartin/soukai-solid
 
 ## Ontologies
   * https://schema.org/
