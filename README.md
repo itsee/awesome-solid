@@ -130,9 +130,10 @@ This repository provides a curated list of resources about SOLID, the future of 
 
 * ODM: https://github.com/NoelDeMartin/soukai-solid
 
-## Ontologies
+## Ontologies and shapes
   * https://schema.org/
   * Presentation about ontologies: https://www.slideshare.net/SergeLinckels/semantic-web-ontologies
+  * https://shex.io/
 
 ## Specifications
 
