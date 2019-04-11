@@ -162,6 +162,7 @@ SOLID
   * RDF 1.1 Turtle: https://www.w3.org/TR/turtle/
   * RDFa 1.1 Primer: https://www.w3.org/TR/rdfa-primer/
   * RDFa Core 1.1: https://www.w3.org/TR/rdfa-core/
+  * RDF community: https://rdf.community/
 * Linked Data
   * http://linkeddata.org/
   * JSON-LD
