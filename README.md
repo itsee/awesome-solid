@@ -86,6 +86,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Bookmarks: https://github.com/mark-book/markbook
 * Find solid pods: https://findsolidpods.com/
 * Task manager: https://github.com/NoelDeMartin/solid-focus
+* Photo manager: https://github.com/carloss8/pixolid/
 
 ## Back-end
 
