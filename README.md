@@ -32,6 +32,7 @@ This repository provides a curated list of resources about SOLID, the future of 
   * https://github.com/solid/solid-tutorial-angular
 * http://computingjoy.com/blog/2016/11/17/data-longevity-and-data-centric-software/
 * Local Solid server with Docker: https://github.com/codyburleson/notes-on-solid/blob/master/cburleson/notes-local-solid-server-with-docker.md
+* Solid server on Synology NAS with Docker: https://www.bourgeoa.ga/solid-wiki/index.php?title=Solid_server_with_docker_on_a_Synology_Nas#run_docker_to_create_your_solid_server
 * Data browser userguide: https://github.com/solid/userguide
 
 ## Presentations
