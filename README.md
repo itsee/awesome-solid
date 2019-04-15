@@ -178,6 +178,8 @@ SOLID
   * https://www.w3.org/TR/ldp-primer/
 * Cool URIs for the Semantic Web: https://www.w3.org/TR/cooluris/
 * Web Linking (RFC 5988): https://tools.ietf.org/html/rfc5988
+* Linked Data Notifications
+  * https://www.w3.org/TR/ldn/
 * PKI/X509
   * X509: https://en.wikipedia.org/wiki/X.509
   * Cert ontology: https://www.w3.org/ns/auth/cert
