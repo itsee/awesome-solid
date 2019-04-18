@@ -9,6 +9,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Inrupt's vision: https://www.inrupt.com/vision/
 * Github organization https://github.com/solid
 * Main github repository: https://github.com/solid/solid
+  * Upcoming version: https://github.com/orgs/inrupt/projects
 
 ## Community
 
