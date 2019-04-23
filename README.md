@@ -89,6 +89,7 @@ This repository provides a curated list of resources about SOLID, the future of 
 * Find solid pods: https://findsolidpods.com/
 * Task manager: https://github.com/NoelDeMartin/solid-focus
 * Photo manager: https://github.com/carloss8/pixolid/
+* Social chat: https://github.com/Julian-Cole/solidarity
 
 ## Back-end
 
